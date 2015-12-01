@@ -1,0 +1,18 @@
+{
+    "cluster_user": "ubuntu",
+    "rsa_key": "/home/ubuntu/.ssh/id_rsa",
+    "password": "",
+    "user_home":"/home/ubuntu/",
+    "cluster_home": "/home/ubuntu/flink-cluster/",
+    "url_hadoop": "https://archive.apache.org/dist/hadoop/core/hadoop-2.4.0/hadoop-2.4.0.tar.gz",
+    "url_flink": "http://mirror.netcologne.de/apache.org/flink/flink-0.9.1/flink-0.9.1-bin-hadoop24.tgz",
+    "url_spark": "http://apache.lauf-forum.at/spark/spark-1.5.0/spark-1.5.0.tgz",
+    "url_scala": "http://downloads.typesafe.com/scala/2.11.6/scala-2.11.6.tgz",
+    "url_sbt": "http://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/sbt-launch/0.13.7/sbt-launch.jar",
+    "num_cores_per_node": "4",
+    "flink_master_heap": "2000",
+    "flink_slave_heap": "2000",
+    "num_hadoop_maps": "18",
+    "num_hadoop_reduces": "12",
+    "java_home": "/usr/lib/jvm/java-1.7.0-openjdk-amd64"
+}

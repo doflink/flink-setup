@@ -1,0 +1,5 @@
+{
+    "masters": ["stream0"],
+    "slaves": ["stream0", "stream1", "stream2"]
+}
+

@@ -1,0 +1,24 @@
+{
+ "Cloud0":{
+     "username": "dodo",
+     "password": "xxxxxxxxxxx",
+     "tenant": "tudFlink",
+     "url": "https://dashboard-xxxx.openstack.com:5000/v2.0"
+     },
+
+ "Cloud1":{
+     "username": "dodo",
+     "password": "xxxxxxxxxxx",
+     "tenant": "tudFlink",
+     "url": "https://dashboard-xxxx.openstack.com:5000/v2.0"
+     },
+
+ "Cloud2":{
+     "username": "dodo",
+     "password": "xxxxxxxxxxx",
+     "tenant": "tudFlink",
+     "url": "https://dashboard-xxxx.openstack.com:5000/v2.0"
+     }
+
+}
+
